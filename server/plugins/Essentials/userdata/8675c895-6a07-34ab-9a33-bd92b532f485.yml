@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728086113866
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728091922096
+  login: 1728091614132
+money: '10000000'
+logoutlocation:
+  world: 0b36a620-b2bb-4af7-9872-de9b879647ff
+  world-name: world
+  x: -3.5173343188038233
+  y: 71.0
+  z: -4.886743971807121
+  yaw: -285.5145263671875
+  pitch: 48.01305389404297
+last-account-name: Mellowvaded
+lastlocation:
+  world: 82364bd0-01f5-4ab0-8a3f-094d48d46bb3
+  world-name: lighthouse_solo_1
+  x: -0.5
+  y: 110.0
+  z: 1.5
+  yaw: -5.407812118530273
+  pitch: 74.1812515258789

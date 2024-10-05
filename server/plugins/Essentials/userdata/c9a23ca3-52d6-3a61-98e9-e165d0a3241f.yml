@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728086157661
+  login: 1728085255934
+money: '3.974609375'
+last-account-name: Laith
+lastlocation:
+  world: 82364bd0-01f5-4ab0-8a3f-094d48d46bb3
+  world-name: lighthouse_solo_1
+  x: -70.44528966122121
+  y: 67.72761717438698
+  z: 25.737574641753323
+  yaw: 271.046875
+  pitch: 20.9921875
+logoutlocation:
+  world: 0b36a620-b2bb-4af7-9872-de9b879647ff
+  world-name: world
+  x: -3.5929132171175793
+  y: 69.0
+  z: 0.4476490074677565
+  yaw: -270.359375
+  pitch: -1.78125

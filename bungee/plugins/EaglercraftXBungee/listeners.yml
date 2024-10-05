@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6An EaglercraftX server'
+  - '&e                            &e&lBEDWARS &f& &c&l&mMINIGAMES&7 (WIP)&r\n                            &6&lJoin now to play Bedwars!'
   allow_motd: true
   allow_query: true
   request_motd_cache:

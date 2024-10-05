@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728086670218
+  login: 1728086662426
+money: '0'
+last-account-name: SANIX879
+logoutlocation:
+  world: 0b36a620-b2bb-4af7-9872-de9b879647ff
+  world-name: world
+  x: -4.0
+  y: 69.0
+  z: 0.0
+  yaw: 72.75000762939453
+  pitch: 22.500001907348633

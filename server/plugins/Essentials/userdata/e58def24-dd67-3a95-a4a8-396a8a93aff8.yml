@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728163295744
+  login: 1728161784706
+money: '0'
+last-account-name: Laith_is_pro
+logoutlocation:
+  world: 0b36a620-b2bb-4af7-9872-de9b879647ff
+  world-name: world
+  x: -3.9030511728000272
+  y: 72.0
+  z: -7.277703867659646
+  yaw: -309.4496154785156
+  pitch: 18.12810516357422

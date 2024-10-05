@@ -1,0 +1,121 @@
+xp-rewards:
+  per-minute: 10
+  per-teammate: 5
+  game-win: 100
+  bed-destroyed: 15
+  regular-kill: 10
+  final-kill: 15
+progress-bar:
+  symbol: ■
+  unlocked-color: '&b'
+  locked-color: '&7'
+  format: '&8 [{progress}&8]'
+levels:
+  '1':
+    name: '&7[{number}✩] '
+    rankup-cost: 1000
+  '2':
+    name: '&7[{number}✩] '
+    rankup-cost: 2000
+  '3':
+    name: '&7[{number}✩] '
+    rankup-cost: 3000
+  '4':
+    name: '&7[{number}✩] '
+    rankup-cost: 3500
+  5-99:
+    name: '&7[{number}✩] '
+    rankup-cost: 5000
+  100-199:
+    name: '&7[&f{number}✩&7] '
+    rankup-cost: 5000
+  200-299:
+    name: '&7[&6{number}✩&7] '
+    rankup-cost: 5000
+  300-399:
+    name: '&7[&b{number}✩&7] '
+    rankup-cost: 5000
+  400-499:
+    name: '&7[&2{number}✩&7] '
+    rankup-cost: 5000
+  500-599:
+    name: '&7[&3{number}✩&7] '
+    rankup-cost: 5000
+  600-699:
+    name: '&7[&4{number}✩&7] '
+    rankup-cost: 5000
+  700-799:
+    name: '&7[&d{number}✩&7] '
+    rankup-cost: 5000
+  800-899:
+    name: '&7[&9{number}✩&7] '
+    rankup-cost: 5000
+  900-999:
+    name: '&7[&5{number}✩&7] '
+    rankup-cost: 5000
+  1000-1099:
+    name: '&f[&e{number}&6✯&f] '
+    rankup-cost: 6000
+  1100-1199:
+    name: '&f[&9{number}&1✯&f] '
+    rankup-cost: 6000
+  1200-1299:
+    name: '&f[&c{number}&4✯&f] '
+    rankup-cost: 6000
+  1300-1399:
+    name: '&f[&b{number}&5✯&f] '
+    rankup-cost: 6000
+  1400-1499:
+    name: '&f[&a{number}&3✯&f] '
+    rankup-cost: 6000
+  1500-1599:
+    name: '&6[&c{number}&9✭&6] '
+    rankup-cost: 7000
+  1600-1699:
+    name: '&6[&8{number}&7✭&6] '
+    rankup-cost: 7000
+  1700-1799:
+    name: '&6[&3{number}&4✭&6] '
+    rankup-cost: 7000
+  1800-1899:
+    name: '&6[&a{number}&d✭&6] '
+    rankup-cost: 7000
+  1900-1999:
+    name: '&6[&e{number}&5✭&6] '
+    rankup-cost: 7000
+  2000-2199:
+    name: '&9&m(&3✦ &b{number} &3✦&9&m)&9 '
+    rankup-cost: 8000
+  2200-2399:
+    name: '&8&m(&7✦ &f{number} &7✦&8&m)&8 '
+    rankup-cost: 8000
+  2400-2499:
+    name: '&a&m(&2✦ &a{number} &2✦&a&m)&a '
+    rankup-cost: 8000
+  2500-2599:
+    name: '&a&m(&2✧ &a{number} &2✧&a&m)&a '
+    rankup-cost: 9000
+  2600-2799:
+    name: '&4&m{&4✧ &c{number} &6✧&m}&6 '
+    rankup-cost: 9000
+  2800-2999:
+    name: '&6&m{&6✧ &c{number} &4✧&m}&4 '
+    rankup-cost: 9000
+  10000-19999:
+    name: '&8﴾&d✪ {number} ✪&8﴿ '
+    rankup-cost: 10000
+  20000-49999:
+    name: '&c﴾&6 ☬ &c﴿ &8({number}) '
+    rankup-cost: 20000
+  50000-69419:
+    name: '&6« ⚚ » &8({number}) '
+    rankup-cost: 30000
+  '69420':
+    name: '( ͡° ͜ʖ ͡°) &c(&66&e9&a4&32&90&5) '
+    rankup-cost: 30000
+  69421-99999:
+    name: '&6« ⚚ » &8({number}) '
+    rankup-cost: 30000
+  others:
+    name: '&6« ∞ » &8({number}) '
+    rankup-cost: 40000
